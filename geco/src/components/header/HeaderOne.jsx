@@ -63,7 +63,7 @@ function HeaderOne() {
             <div className="row align-items-center">
               <div className="col-lg-6 d-none d-lg-block">
                 <div className="header-top-offer">
-                  <p>Exclusive Black Friday ! Offer</p>
+                 
                   <span className="coming-time" data-countdown="2022/6/20" />
                 </div>
               </div>
